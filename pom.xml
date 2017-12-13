@@ -75,7 +75,7 @@
         <version>0.4.4</version>
         <configuration>
           <jdkVersion>1.8</jdkVersion>
-          <appName>spark-example-cimartin</appName>
+          <appName>pruebasMockito-cimartin</appName>
           <processTypes>
             <!-- Tell Heroku how to launch your application -->
             <web>java -jar ./target/pruebasMockito-0.0.1-jar-with-dependencies.jar</web>
